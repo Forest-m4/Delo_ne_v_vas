@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/22699398/README.1.md)
 
 # Дело не в Вас
 
