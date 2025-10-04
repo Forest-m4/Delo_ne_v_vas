@@ -37,5 +37,5 @@ The site uses forms, buttons, and pop-up tips to make information accessible and
 To open and use the website:
 
  Download the website files or visit the following link: 
-(https://forest-m4.github.io/Delo_ne_v_vas)
+(https://helix.tmweb.ru)
 
